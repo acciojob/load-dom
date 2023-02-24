@@ -1,10 +1,8 @@
-# Enter Metaverse
-Change the content in the “p” tag using javascript that updates the string “Enter the Metaverse” to “Entered Metaverse” on click of a button.
+# Load DOM
+Write a program in javaScript to write the string "DOM load success" on web page on DOM is loaded
 
-![enter-metaverse](https://user-images.githubusercontent.com/78275204/221270781-581d60ca-0d52-4be3-8909-1ca8ccc29de1.gif)
+![image](https://user-images.githubusercontent.com/78275204/221293265-de7d3255-d8b3-4cbd-b6f3-6059c0095c21.png)
 
 #### Acceptance Criteria:
-- The `p` tag should have the id `status`
-- The `p` tag's initial text should be "Enter the Metaverse"
-- The button should have the id `enterBtn`
-- Upon pressing the `Enter` button, the text of `p` tag should be changed to "Entered Metaverse" in a `h1` tag.
+- The string "DOM load success" should be written whenever DOM is loaded
+- The body tag should be empty, ie should not contain any child. 
